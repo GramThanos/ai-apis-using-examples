@@ -1,4 +1,4 @@
-# LLM APIs Examples
+# AI APIs Examples
 Example codes to interact with popular AI-related APIs.
 
 ## Examples
