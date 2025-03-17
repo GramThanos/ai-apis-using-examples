@@ -38,7 +38,7 @@ AI_SERVER_MODEL=llama3.1:8b
 Example values for Google's [Gemini](https://ai.google.dev/gemini-api/docs/api-key):
 ```
 AI_SERVER_URL=https://generativelanguage.googleapis.com/v1beta/openai/
-AI_SERVER_API_KEY=GEMINI_API_KEY_HERE
+AI_SERVER_API_KEY=YOUR_GEMINI_API_KEY_HERE
 AI_SERVER_MODEL=models/gemini-2.0-flash
 ```
 
@@ -46,8 +46,24 @@ AI_SERVER_MODEL=models/gemini-2.0-flash
 Example values for OpenAI's [ChatGPT](https://platform.openai.com/docs/api-reference/introduction):
 ```
 AI_SERVER_URL=https://api.openai.com/v1
-AI_SERVER_API_KEY=OPENAI_API_KEY_HERE
+AI_SERVER_API_KEY=YOUR_OPENAI_API_KEY_HERE
 AI_SERVER_MODEL=gpt-4o
+```
+
+### X's Grok .env
+Example values for [x.ai](https://docs.x.ai/)'s API:
+```
+AI_SERVER_URL=https://api.x.ai/v1
+AI_SERVER_API_KEY=YOUR_XAI_API_KEY_HERE
+AI_SERVER_MODEL=grok-2-latest
+```
+
+### OpenRouter .env
+Example values for [OpenRouter](https://openrouter.ai/settings/keys)'s API:
+```
+AI_SERVER_URL=https://openrouter.ai/api/v1
+AI_SERVER_API_KEY=YOUR_OPENROUTER_API_KEY_HERE
+AI_SERVER_MODEL=deepseek/deepseek-r1:free
 ```
 
 ## Run the example you want
