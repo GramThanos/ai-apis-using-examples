@@ -9,7 +9,7 @@ Here is a list of examples:
 	- simple chat [example](example-openai-chat.py)
 	- simple chat with streaming tokens [example](example-openai-chat-stream.py)
 	- simple chat with custom sytem prompt and streaming tokens [example](example-openai-system-streaming.py)
-	- simple chat with thinking chain-of-though step and streaming tokens [example](example-openai-thinking-stream.py)
+	- simple chat with dynamic thinking / Chain-of-Though (CoT) step and streaming tokens [example](example-openai-thinking-stream.py)
 	- simple chat with tools functionality [example](example-openai-tools.py)
 
 ## Setup
