@@ -12,6 +12,8 @@ Here is a list of examples:
 	- simple chat with dynamic thinking / Chain-of-Though (CoT) step and streaming tokens [example](example-openai-thinking-stream.py)
 	- simple chat with tools functionality [example 1](example-openai-tools-1.py) (function to log user requests)
 	- simple chat with tools functionality [example 2](example-openai-tools-2.py) (function to let the AI access current time)
+	- simple chat with tools from MCP server [example](example-openai-tools-mcp.py)
+	- example MCP server to tell time [example](example-mcp-time-server.py)
 
 ## Setup
 
